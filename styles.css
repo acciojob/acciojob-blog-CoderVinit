@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.image{
+	height:200px;
+	display:block;
+}
+
+.container h1{
+	text-align:center;
+}
+
+
